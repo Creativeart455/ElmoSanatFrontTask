@@ -18,7 +18,7 @@ body {
 
 .motherlode {
     /* position: relative; */
-    background: var(--clr-bg);
+    background: hotpink;
     color: var(--clr-neon);
     width: 100%;
     min-height: 100vh;
